@@ -1,0 +1,6 @@
+﻿  First_Quest.cpp
+C:\Users\SamSayonara\Desktop\Проект\First_Quest\First_Quest\First_Quest.cpp(223,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\SamSayonara\Desktop\Проект\First_Quest\First_Quest\First_Quest.cpp(800,17): warning C4129: >: неизвестная escape-последовательность
+C:\Users\SamSayonara\Desktop\Проект\First_Quest\First_Quest\First_Quest.cpp(891,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\SamSayonara\Desktop\Проект\First_Quest\First_Quest\First_Quest.cpp(891,22): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  First_Quest.vcxproj -> C:\Users\SamSayonara\Desktop\Проект\First_Quest\x64\Debug\First_Quest.exe
